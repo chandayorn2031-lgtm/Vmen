@@ -1,0 +1,6 @@
+{
+  "name": "URBAN FIT - Streetwear & Summer Essentials",
+  "description": "Premium streetwear e-commerce store featuring Summer Essentials, drops, lookbook, and cart powered by Google Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
